@@ -1,0 +1,6 @@
+@Back_End_Labs_2024_HostAddress = http://localhost:5115
+
+GET {{Back_End_Labs_2024_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
